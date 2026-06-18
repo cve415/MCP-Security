@@ -52,6 +52,8 @@
     "developer": "Backslash",
     "category": "Scanner",
     "stage": "startup",
+    "funding": "$19M",
+    "round": "Series A",
     "description": "MCP scanning, hardening, and a real-time MCP proxy built for IDE / vibe-coding workflows. Relevant if your dev loop is agent-heavy.",
     "url": "https://www.backslash.security"
   },
@@ -76,6 +78,8 @@
     "developer": "Lasso Security",
     "category": "Scanner",
     "stage": "startup",
+    "funding": "$28M",
+    "round": "Series A+",
     "description": "MCP threat intelligence, red-teaming tooling, and agentic security research. Free-tier scanning and research resources make it a useful reference for solo devs hardening their setups.",
     "url": "https://www.lasso.security"
   },
@@ -84,6 +88,8 @@
     "developer": "Operant AI",
     "category": "Gateway",
     "stage": "startup",
+    "funding": "$13.5M",
+    "round": "Series A",
     "description": "MCP gateway w/ runtime protection + NHI security; free 2026 Guide to Securing MCP and Shadow Escape research.",
     "url": "https://www.operant.ai"
   },
