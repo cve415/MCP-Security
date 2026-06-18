@@ -1,22 +1,67 @@
 <svg viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
   <rect width="1200" height="630" fill="#f8f9fa"/>
-  <rect width="1200" height="630" fill="#f8f9fa" stroke="#e9ecef" stroke-width="2"/>
 
-  <text x="60" y="140" font-family="system-ui, -apple-system, sans-serif" font-size="72" font-weight="800" fill="#111111">
-    MCP &amp; Agentic
-  </text>
-  <text x="60" y="220" font-family="system-ui, -apple-system, sans-serif" font-size="72" font-weight="800" fill="#111111">
-    Security Directory
-  </text>
+  <!-- Left border -->
+  <rect x="0" y="0" width="8" height="630" fill="#111111"/>
 
-  <text x="60" y="320" font-family="system-ui, -apple-system, sans-serif" font-size="28" fill="#555555" font-weight="400">
-    Open index mapping developer tooling &amp;
+  <!-- Title -->
+  <text x="60" y="90" font-family="system-ui, -apple-system, sans-serif" font-size="48" font-weight="700" fill="#111111">
+    ⚡ Enhanced Workstation Security
   </text>
-  <text x="60" y="365" font-family="system-ui, -apple-system, sans-serif" font-size="28" fill="#555555" font-weight="400">
-    enterprise control planes for MCP security
+  <text x="60" y="140" font-family="system-ui, -apple-system, sans-serif" font-size="48" font-weight="700" fill="#111111">
+    Best Practices
   </text>
 
-  <text x="60" y="550" font-family="system-ui, -apple-system, sans-serif" font-size="18" fill="#555555">
-    cve415.github.io/MCP-Security
+  <!-- Bullet 1 -->
+  <circle cx="45" cy="200" r="5" fill="#111111"/>
+  <text x="75" y="195" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="700" fill="#111111">
+    Verify Supply Chain Integrity:
+  </text>
+  <text x="75" y="217" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#555555">
+    Pin all third-party MCP server package hashes and establish a cadence for
+  </text>
+  <text x="75" y="237" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#555555">
+    reviewing them.
+  </text>
+
+  <!-- Bullet 2 -->
+  <circle cx="45" cy="285" r="5" fill="#111111"/>
+  <text x="75" y="280" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="700" fill="#111111">
+    Mandate Explicit Authorization:
+  </text>
+  <text x="75" y="302" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#555555">
+    Disable automatic approvals for tools; require active user consent for any
+  </text>
+  <text x="75" y="322" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#555555">
+    sensitive operations.
+  </text>
+
+  <!-- Bullet 3 -->
+  <circle cx="45" cy="370" r="5" fill="#111111"/>
+  <text x="75" y="365" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="700" fill="#111111">
+    Secure Credential Management:
+  </text>
+  <text x="75" y="387" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#555555">
+    Replace plaintext credentials in configuration files with environment variables
+  </text>
+  <text x="75" y="407" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#555555">
+    or secure secret managers; rotate all existing secrets.
+  </text>
+
+  <!-- Bullet 4 -->
+  <circle cx="45" cy="455" r="5" fill="#111111"/>
+  <text x="75" y="450" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="700" fill="#111111">
+    Network Perimeter Control:
+  </text>
+  <text x="75" y="472" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#555555">
+    Never expose MCP endpoints to public networks; utilize strict authentication
+  </text>
+  <text x="75" y="492" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#555555">
+    (e.g., mTLS, API keys) for all connections.
+  </text>
+
+  <!-- Footer -->
+  <text x="60" y="570" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#555555">
+    MCP &amp; Agentic Security Directory (2026)
   </text>
 </svg>
