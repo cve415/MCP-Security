@@ -2,8 +2,7 @@
 
 An open index mapping the security infrastructure landscape for the Model Context Protocol ecosystem — categorized by developer tooling, enterprise control planes, and governance frameworks.
 
-**Live site:** [cve415.github.io/MCP-Security](https://cve415.github.io/MCP-Security/)
-
+**Live site:** https://cve415.github.io/MCP-Security-2026/
 ---
 
 ## About this directory
