@@ -1,5 +1,12 @@
 [
   {
+    "name": "Lasso Security",
+    "developer": "Lasso Security",
+    "category": "Runtime",
+    "description": "MCP red-teaming platform and threat intelligence for agentic AI. Covers prompt injection detection, tool abuse scenarios, and MCP-specific attack surface mapping — enterprise-grade research backed by a commercial runtime security offering.",
+    "url": "https://www.lasso.security"
+  },
+  {
     "name": "Zscaler",
     "developer": "Zscaler",
     "category": "Network",

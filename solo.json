@@ -63,31 +63,10 @@
     "url": "https://github.com/nyit-vancouver/mcp-sec-audit"
   },
   {
-    "name": "Unified Context Layer (UCL)",
-    "developer": "MCP Ecosystem",
-    "category": "Gateway",
-    "description": "Emerging open context/MCP gateway layer for agentic systems; useful as your local setup grows past a single client.",
-    "url": "https://modelcontextprotocol.io"
-  },
-  {
-    "name": "Operant AI — Securing MCP Guide",
-    "developer": "Operant AI",
-    "category": "Research",
-    "description": "Free 2026 Guide to Securing MCP and Shadow Escape research. Honorable mention for solo practitioners building threat models.",
-    "url": "https://www.operant.ai"
-  },
-  {
-    "name": "MCP Manager",
-    "developer": "MCP Manager",
-    "category": "Gateway",
-    "description": "Self-serve MCP gateway tier for teams outgrowing a single IDE config but not yet on enterprise procurement.",
-    "url": "https://mcpmanager.ai"
-  },
-  {
     "name": "Lasso Security",
     "developer": "Lasso Security",
-    "category": "Community",
-    "description": "Community MCP tooling and research for agentic security posture. Honorable mention for solo devs tracking emerging threats.",
+    "category": "Scanner",
+    "description": "MCP threat intelligence, red-teaming tooling, and agentic security research. Free-tier scanning and research resources make it a useful reference for solo devs hardening their setups.",
     "url": "https://www.lasso.security"
   }
 ]
