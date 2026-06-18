@@ -1,0 +1,22 @@
+<svg viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#f8f9fa"/>
+  <rect width="1200" height="630" fill="#f8f9fa" stroke="#e9ecef" stroke-width="2"/>
+
+  <text x="60" y="140" font-family="system-ui, -apple-system, sans-serif" font-size="72" font-weight="800" fill="#111111">
+    MCP &amp; Agentic
+  </text>
+  <text x="60" y="220" font-family="system-ui, -apple-system, sans-serif" font-size="72" font-weight="800" fill="#111111">
+    Security Directory
+  </text>
+
+  <text x="60" y="320" font-family="system-ui, -apple-system, sans-serif" font-size="28" fill="#555555" font-weight="400">
+    Open index mapping developer tooling &amp;
+  </text>
+  <text x="60" y="365" font-family="system-ui, -apple-system, sans-serif" font-size="28" fill="#555555" font-weight="400">
+    enterprise control planes for MCP security
+  </text>
+
+  <text x="60" y="550" font-family="system-ui, -apple-system, sans-serif" font-size="18" fill="#555555">
+    cve415.github.io/MCP-Security
+  </text>
+</svg>
