@@ -262,6 +262,14 @@
     "url": "https://www.manufact.ai"
   },
   {
+    "name": "Stacklok",
+    "developer": "Stacklok",
+    "category": "Gateway",
+    "stage": "established",
+    "description": "Kubernetes-native enterprise platform and secure gateway for MCP. Provides centralized identity provider integration (OIDC), fine-grained policy enforcement, and provenance-verified local registries to govern coding agents at scale.",
+    "url": "https://www.stacklok.com"
+  },
+  {
     "name": "IBM ContextForge Enterprise",
     "developer": "IBM",
     "category": "Gateway",
