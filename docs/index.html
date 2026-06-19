@@ -190,12 +190,12 @@ nav {
     <h1>MCP & Agentic Security 
         halfway through 2026</h1>
     <p>The Model Context Protocol (MCP) has rapidly evolved from an experimental spec into foundational enterprise infrastructure. This open index maps the emerging security landscape—categorized by high-velocity developer tooling and strict enterprise governance frameworks.</p>
-    
+
     <div class="best-practices">
         <h3>⚡ MCP Security Best Practices</h3>
         <ul>
             <li><strong>Lock Your Server Hashes:</strong> Use strict version pinning on your tools. Stop third-party servers from changing their code underneath your agent.</li>
-            <li><strong>Enforce the Human-in-the-Loop:</strong> Turn off automatic execution. If an agent tries to modify or touch data, it must ask you for permission first.</li>
+            <li><strong>Establish Human-in-the-Loop (HITL) Gates:</strong> Disable un-vetted autonomous execution. Require explicit user approval for any state-changing actions, data mutations, or destructive API calls.</li>
             <li><strong>Isolate Environment Secrets:</strong> Move your API keys out of config JSONs. Force your agent to pull credentials directly from a local environment variable pool.</li>
             <li><strong>Sandbox Your Ingress Traffic:</strong> Keep your endpoints off the public web. Bridge your cloud setups using authenticated secure tunnels only.</li>
         </ul>
