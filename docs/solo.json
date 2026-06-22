@@ -102,5 +102,13 @@
     "stage": "body",
     "description": "Emerging open context/MCP gateway layer for agentic systems; useful as your local setup grows past a single client.",
     "url": "https://modelcontextprotocol.io"
+  },
+  {
+    "name": "arcade-mcp",
+    "developer": "Arcade.dev",
+    "category": "Framework / Secrets",
+    "stage": "startup",
+    "description": "Open-source Python framework for building custom, secure MCP servers. Natively handles user-delegated OAuth, token refresh, and encrypted secret injection, so developers never hardcode keys or expose tokens to the client/LLM.",
+    "url": "https://github.com/ArcadeAI"
   }
 ]

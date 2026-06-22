@@ -262,6 +262,16 @@
     "url": "https://www.manufact.ai"
   },
   {
+    "name": "Arcade Enterprise Runtime",
+    "developer": "Arcade.dev",
+    "category": "Gateway",
+    "stage": "startup",
+    "funding": "$72M",
+    "round": "Total ($60M Series A, 2026)",
+    "description": "Commercial MCP runtime for agentic authorization, contextual access control, and governance auditing. Integrates with corporate IdPs so agents execute tools only within the calling end-user's explicit OAuth permissions. Authored the MCP authorization spec adopted by Anthropic and co-authored the URL elicitation extension.",
+    "url": "https://www.arcade.dev"
+  },
+  {
     "name": "Stacklok",
     "developer": "Stacklok",
     "category": "Gateway",
