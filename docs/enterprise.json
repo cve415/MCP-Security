@@ -290,6 +290,14 @@
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
+    "name": "agentgateway Enterprise",
+    "developer": "Solo.io",
+    "category": "Gateway",
+    "stage": "established",
+    "description": "Commercial tier of the open-source agentgateway (AAIF). Central MCP/A2A control plane enforcing Cedar-based RBAC, corporate OAuth 2.1 token exchange, and OpenTelemetry audit. Sandboxes and inspects elicited URLs at the protocol layer to contain Shadow MCP access.",
+    "url": "https://agentgateway.dev/enterprise"
+  },
+  {
     "name": "Backslash Security",
     "developer": "Backslash",
     "category": "Scanner",

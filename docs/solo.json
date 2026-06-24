@@ -42,6 +42,14 @@
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
+    "name": "agentgateway",
+    "developer": "Solo.io / AAIF",
+    "category": "Gateway",
+    "stage": "established",
+    "description": "Open-source data-plane gateway for HTTP, LLM, MCP, and A2A traffic. MCP control plane with RBAC, tool scoping, OPA policy, audit trails, and PII redaction. Donated to the Agentic AI Foundation.",
+    "url": "https://agentgateway.dev"
+  },
+  {
     "name": "Lunar.dev MCPX",
     "developer": "Lunar.dev",
     "category": "Observability",
